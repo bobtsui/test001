@@ -42,7 +42,7 @@ namespace 直通_每次執行都打亂陣列_
 
         private void label2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("hello");
+            MessageBox.Show("hello!!  GitHub~~");
         }
     }
 }
