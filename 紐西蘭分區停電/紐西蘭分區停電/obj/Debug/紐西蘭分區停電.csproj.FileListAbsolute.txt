@@ -1,0 +1,6 @@
+D:\資策會\履歷\紐西蘭分區停電\紐西蘭分區停電\bin\Debug\紐西蘭分區停電.exe.config
+D:\資策會\履歷\紐西蘭分區停電\紐西蘭分區停電\bin\Debug\紐西蘭分區停電.exe
+D:\資策會\履歷\紐西蘭分區停電\紐西蘭分區停電\bin\Debug\紐西蘭分區停電.pdb
+D:\資策會\履歷\紐西蘭分區停電\紐西蘭分區停電\obj\Debug\紐西蘭分區停電.csprojResolveAssemblyReference.cache
+D:\資策會\履歷\紐西蘭分區停電\紐西蘭分區停電\obj\Debug\紐西蘭分區停電.exe
+D:\資策會\履歷\紐西蘭分區停電\紐西蘭分區停電\obj\Debug\紐西蘭分區停電.pdb
