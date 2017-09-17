@@ -34,15 +34,15 @@ namespace 直通_每次執行都打亂陣列_
             }
             foreach (var a in array)
             {
-                string ab = a + " ";
-                this.label1.Text += ab;
+                string abc = a + " ";
+                this.label1.Text += abc;
             }
 
         }
 
         private void label2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("hello!  GitHub~");
+            MessageBox.Show("hello!!!!!!!!!!  GitHub~");
         }
     }
 }
